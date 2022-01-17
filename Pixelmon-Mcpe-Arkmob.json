@@ -1,0 +1,24 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-2633475802864579/9218213612",
+      "main_ads_intertitial":"ca-app-pub-2633475802864579/6447729981",
+      "native_for_admob":"ca-app-pub-2633475802864579/2125357505",
+      "admob_openid": "ca-app-pub-2633475802864579/2508484976",
+      "backup_ads_banner":"f59180a1e358af3b",
+      "backup_ads_intertitial":"9c1ff435e78e188a",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "Insurance",
+      "high_paying_keyword_2": "Mortgage",
+      "high_paying_keyword_3": "Donate",
+      "high_paying_keyword_4": "Electricity",
+      "high_paying_keyword_5": "Loans",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ]
+}
